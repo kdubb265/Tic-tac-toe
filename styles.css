@@ -1,0 +1,10 @@
+.Clearfix::before, .clearfix::after
+.box {
+    padding-top: 3em;
+}
+h2 {text-align: center;}
+h2 {align-items: center;}
+
+.box {
+    border-bottom: 1px black solid;
+}
